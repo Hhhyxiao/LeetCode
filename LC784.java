@@ -9,7 +9,7 @@
 
         输入: S = "12345"
         输出: ["12345"]。*/
-        
+
 package LeetCode;
 import java.util.List;
 import java.util.LinkedList;
